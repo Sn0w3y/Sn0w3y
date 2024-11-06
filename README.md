@@ -39,7 +39,7 @@
 
 ### 🎧 Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Sn0w3y)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/intl-de/track/0vBOyqICis94fkSwJbfUeF?si=2a82bf667ae74db5)
 
 ---
 
