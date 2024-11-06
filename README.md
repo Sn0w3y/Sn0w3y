@@ -37,12 +37,6 @@
 
 ---
 
-### 🎧 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/intl-de/track/0vBOyqICis94fkSwJbfUeF?si=2a82bf667ae74db5)
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
