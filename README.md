@@ -2,9 +2,7 @@
 
 ## 🎧 By Night: **DJ SpinSation**  
 
-## 🖥️ By Day: **Technician & Developer**
-
-*...and sometimes, a nocturnal coder! 🌙*
+## 🖥️ By Day: **Technician & Developer** *...and sometimes, a nocturnal coder! 🌙*
 
 ---
 
