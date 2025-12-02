@@ -39,8 +39,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sn0w3y&theme=radical" alt="GitHub Streak" />
+  <img width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sn0w3y&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,prs_merged_percentage,prs_total" />
 </p>
 
 
