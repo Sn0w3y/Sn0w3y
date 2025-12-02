@@ -39,9 +39,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sn0w3y&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sn0w3y&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
